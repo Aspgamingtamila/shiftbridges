@@ -1,0 +1,7 @@
+{
+  "name": "shiftbridge-lightweight-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free local workforce coordination demo",
+  "scripts": { "start": "node server.js" }
+}
